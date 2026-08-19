@@ -1,3 +1,5 @@
+<img width="1540" height="890" alt="image" src="https://github.com/user-attachments/assets/06aad14d-a428-4f9e-bea6-1f0782b5737b" />
+
 # QuantumSeed
 
 **A powerful, local-first Minecraft seed discovery, analysis, and mapping tool.**
